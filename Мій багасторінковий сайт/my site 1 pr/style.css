@@ -1,0 +1,45 @@
+body{
+    background-color: wheat;
+}
+a{
+    text-decoration: none;
+    font-size: 20px;
+    color: darkgreen;
+    padding: 15px;
+}
+a:hover{
+    color: lawngreen
+}
+a:focus{
+    background-color: aquamarine;
+    border-radius: 20%;
+}
+.navigation{
+    display: flex;
+    justify-content: center;
+}
+span{
+    text-align: left;
+    font-size: 35px;
+    background-color: aqua;
+    margin: auto;
+    padding: 15px;
+}
+.content{
+    text-align: center;
+    font-size: 22px;
+}
+.ukr-top{
+    width: 100px;
+    height: 40px;
+    position: relative;
+    background-color: blue;
+    margin: auto;
+}
+.ukr-bottom{
+    width: 100px;
+    height: 40px;
+    position: relative;
+    background-color: yellow;
+    margin: auto;
+}

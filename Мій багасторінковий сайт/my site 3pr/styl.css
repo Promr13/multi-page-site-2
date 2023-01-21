@@ -1,0 +1,21 @@
+body {
+    background-color:lightseagreen;
+}
+a {
+    text-decoration: none;
+    color: lightseagreen;
+    background-color: lightgoldenrodyellow;
+    border-radius: 10%;
+}
+a:hover{
+    color:aqua;
+    background-color: gold;
+}
+nav{
+    text-align: center;
+    font-size: 50px;
+}
+h1, p{
+    font-size: 20px;
+    text-align: center;
+}
